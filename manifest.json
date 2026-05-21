@@ -1,0 +1,20 @@
+{
+  "name": "최우영수산 홀 발주리스트",
+  "short_name": "최우영 수산",
+  "start_url": "./?v=15",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#15110c",
+  "icons": [
+    {
+      "src": "./icon-v15.png?v=15",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-v15.png?v=15",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
